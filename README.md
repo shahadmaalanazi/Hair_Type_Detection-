@@ -138,6 +138,9 @@ Evaluation
 
 The model successfully classifies hair types using transfer learning and fine-tuning techniques. Performance is evaluated using standard classification metrics and visual analysis tools.
 
+## Kaggle
+https://www.kaggle.com/code/shahad05/hair-detection-using-efficientnet-b0
+
 ## Author
 
 Shahad Alanazi
